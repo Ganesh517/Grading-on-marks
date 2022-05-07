@@ -5,22 +5,22 @@ To write a c# program to grade the marks.
 
 
 ## Algorithm:
-Step-1:
+## Step-1:
 Start.
 
-Step-2:
+## Step-2:
 Create a class and declare one variable with integer datatype
 
-Step-3:
+## Step-3:
 Get marks from the User
 
-Step-4:
+## Step-4:
 Use if and elif condition to check the grade
 
-Step-5:
+## Step-5:
 Print the grade for the given mark
 
-Step-6:
+## Step-6:
 Stop
 
 ## Program:
